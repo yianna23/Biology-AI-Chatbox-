@@ -158,25 +158,7 @@ This project was created to demonstrate:
 
 ---
 
-## 📷 Preview
-
-*Add a screenshot of the application here.*
-
-```
-+------------------------------------------------------+
-| 🧬 AI Biology Tutor                                  |
-|------------------------------------------------------|
-|                                                      |
-|  🤖 Hello! I'm your Biology assistant.               |
-|                                                      |
-|  👤 What is DNA?                                     |
-|                                                      |
-|  🤖 DNA is the genetic material that...              |
-|                                                      |
-|------------------------------------------------------|
-| Type your question...                   [ Send ]     |
-+------------------------------------------------------+
-```
+<img width="959" height="504" alt="image" src="https://github.com/user-attachments/assets/45cb3a98-2843-4537-9727-c4adebe1a2a8" />
 
 ---
 
